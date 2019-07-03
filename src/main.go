@@ -4,6 +4,7 @@ import (
 	"GoEurekaClient/src/eureka"
 )
 
-func main()  {
+func main() {
 	eureka.Apps()
+	eureka.Region()
 }
